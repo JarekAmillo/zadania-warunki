@@ -5,8 +5,7 @@ namespace zadania_warunki
     class Program
     {
 
-//Napisz program w C#, który stworzy dwie zmienne int i sprawdzi czy są
-//one równe czy nie.
+//Napisz program w C#, który stworzy dwie zmienne int i sprawdzi czy są one równe czy nie.
 //Dane testowe:
 //a : 5
 //b : 5
